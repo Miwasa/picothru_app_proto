@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BDE660F4E2AE4968B5C37C66"
+               BlueprintIdentifier = "9CEEFD7B097C4D2E8579C2F5"
                BuildableName = "libPods-WebPay.a"
                BlueprintName = "Pods-WebPay"
                ReferencedContainer = "container:Pods.xcodeproj">

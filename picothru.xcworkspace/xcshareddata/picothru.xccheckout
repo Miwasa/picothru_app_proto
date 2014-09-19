@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D8A76201-AAF1-4525-812D-215231E771BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>picothru</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B4D3773-2B29-4AF6-BF72-D8DA73ACBA21</key>
+		<string>https://github.com/Miwasa/picothru_app_proto.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>picothru.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B4D3773-2B29-4AF6-BF72-D8DA73ACBA21</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Miwasa/picothru_app_proto.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B4D3773-2B29-4AF6-BF72-D8DA73ACBA21</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B4D3773-2B29-4AF6-BF72-D8DA73ACBA21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>picothru_app_proto</string>
+		</dict>
+	</array>
+</dict>
+</plist>
